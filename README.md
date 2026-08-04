@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full-Stack Developer** and **Team Lead Developer** with 1+ years of professional experience building scalable REST APIs, microservices architectures, secure authentication systems, enterprise integrations, and AI/ML model evaluation workflows.
+I'm a **Full-Stack Developer** and **Team Lead Developer** with professional experience building scalable REST APIs, microservices architectures, secure authentication systems, enterprise integrations, and AI/ML model evaluation workflows.
 
 - 🔧 Building scalable backend systems and enterprise-grade REST APIs
 - ☁️ Working with microservices, API security, and cloud deployments (AWS, Azure)
