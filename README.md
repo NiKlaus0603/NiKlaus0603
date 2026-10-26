@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Vishnuvardhan+Reddy+%F0%9F%91%8B%3BDeveloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Vishnu+Reddy+%F0%9F%91%8B%3BDeveloper)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NiKlaus0603&style=for-the-badge&color=blueviolet)
 
